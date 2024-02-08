@@ -1,4 +1,3 @@
-
 # Mikroservis Odaklı Maske Yönetim Sistemi
 Proje, mikroservis mimarisini temel alarak geliştirilen bir maske takip sistemini içermektedir. Örnek olarak, dış SOAP servisin sisteme entegre edilmesi süreci gösterilmiştir. Mernis servisi entegrasyonu sayesinde kullanıcıların kimlik doğrulaması, kişisel bilgiler kullanılarak gerçekleştirilmekte ve bu doğrulama üzerinden maske başvuruları işlenmektedir.
 
